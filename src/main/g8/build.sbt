@@ -1,4 +1,4 @@
-name := "myob"
+name := "$name"
 
 scalaVersion := "2.11.2"
 
