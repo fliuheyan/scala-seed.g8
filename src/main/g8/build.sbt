@@ -2,10 +2,6 @@ name := "$name$"
 
 scalaVersion := "2.11.2"
 
-ideaExcludeFolders += ".idea"
-ideaExcludeFolders += ".idea_modules"
-
-
 libraryDependencies ++= Seq(
   "commons-io" % "commons-io" % "2.4",
   "io.argonaut" %% "argonaut" % "6.1-M4",
