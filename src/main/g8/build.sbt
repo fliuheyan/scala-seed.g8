@@ -1,4 +1,4 @@
-name := "$name"
+name := "$name$"
 
 scalaVersion := "2.11.2"
 
